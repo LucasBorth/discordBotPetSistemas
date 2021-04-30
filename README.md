@@ -9,7 +9,3 @@ Funções previstas:
 - Direcionar duvidas e membros de projetos especificos para duvidas
 - Gravar e guardar audio de reuniões
 - Gerar ATA
-
-Membros Atuais:
-
-- Lucas Henrique Alves Borth (E.S 2020)
