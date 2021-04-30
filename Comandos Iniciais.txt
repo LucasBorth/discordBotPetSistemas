@@ -1,0 +1,8 @@
+// Gera o arquivo JSON base
+npm init
+
+// Dar nome ao pacote
+bot
+
+// Instalar a biblioteca do Discord
+npm install discord.js

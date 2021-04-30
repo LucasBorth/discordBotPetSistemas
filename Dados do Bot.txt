@@ -1,0 +1,4 @@
+Aplication ID: 500429632949190662
+Token: NTAwNDI5NjMyOTQ5MTkwNjYy.W8Ebag.N6TTQcIELDTbdMU4iXtSXUwClYc
+
+Link: https://discord.com/oauth2/authorize?client_id=500429632949190662&scope=bot&permissions=8
